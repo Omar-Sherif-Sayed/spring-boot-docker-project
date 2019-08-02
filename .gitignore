@@ -1,6 +1,14 @@
 # Compiled class file
 *.class
 
+.classpasth
+.project
+.sittings
+
+HELP.md
+/target/
+
+
 # Log file
 *.log
 
