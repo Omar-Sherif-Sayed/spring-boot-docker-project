@@ -1,9 +1,10 @@
 # spring-boot-docker-project
 spring-boot-docker-project
- Trailer Project 
+tHis is Trailer Project 
 
- Will never Work if u use it's Dockerfile to create an Image 
- Bc the postgresql Database run in another Image
+Will never Work if u use it's Dockerfile to create an Image 
+
+Becase the postgresql Database run in another Image
 
 docker build -f Dockerfile -t spring-boot-docker .
 
