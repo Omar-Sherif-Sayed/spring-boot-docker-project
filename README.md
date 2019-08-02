@@ -1,9 +1,9 @@
 # spring-boot-docker-project
-spring-boot-docker-project /n \n
-#Trailer Project 
+spring-boot-docker-project
+# Trailer Project 
 
-#Will never Work if u use it's Dockerfile to create an Image 
-#Bc the postgresql Database run in another Image
+# Will never Work if u use it's Dockerfile to create an Image 
+# Bc the postgresql Database run in another Image
 
 docker build -f Dockerfile -t spring-boot-docker .
 
